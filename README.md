@@ -50,7 +50,7 @@ A simple **two-player Tic-Tac-Toe** game built in Java using Android Studio.
 - **Frameworks & Libraries:**  
   - **Android SDK** 📱  
   - **ConstraintLayout** 📐  
-  - **Jetpack Components** 🛠️ (if used)  
+  - **Jetpack Components** 🛠️ 
 
 ## 🔮 Future Enhancements  
 - 🤖 **Single Player Mode** – Add an AI opponent using the Minimax algorithm.  
